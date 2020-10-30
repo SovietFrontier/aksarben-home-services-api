@@ -1,15 +1,13 @@
-package com.tim.creationsapi;
+package com.aksarbenhomeservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.util.Map;
-
 @SpringBootApplication
-public class CreationsApiApplication {
+public class AksarbenHomeServices {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CreationsApiApplication.class, args);
+		SpringApplication.run(AksarbenHomeServices.class, args);
 	}
 
 }

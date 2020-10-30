@@ -1,10 +1,10 @@
-package com.tim.creationsapi;
+package com.aksarbenhomeservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CreationsApiApplicationTests {
+class AksarbenHomeServicesTest {
 
 	@Test
 	void contextLoads() {
